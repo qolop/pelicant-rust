@@ -56,7 +56,7 @@ name = "cgl"
 version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
- "gleam 0.2.21 (registry+https://github.com/rust-lang/crates.io-index)",
+ "gleam 0.2.22 (registry+https://github.com/rust-lang/crates.io-index)",
  "libc 0.2.16 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
@@ -267,7 +267,7 @@ dependencies = [
 
 [[package]]
 name = "gleam"
-version = "0.2.21"
+version = "0.2.22"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "gl_generator 0.5.2 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -360,7 +360,7 @@ version = "0.1.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "byteorder 0.5.3 (registry+https://github.com/rust-lang/crates.io-index)",
- "rayon 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "rayon 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -769,7 +769,7 @@ dependencies = [
 
 [[package]]
 name = "rayon"
-version = "0.4.0"
+version = "0.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "deque 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -827,7 +827,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "serde_json"
-version = "0.8.1"
+version = "0.8.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "dtoa 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -872,7 +872,7 @@ name = "target_build_utils"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
- "serde_json 0.8.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "serde_json 0.8.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
